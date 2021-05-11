@@ -13,7 +13,7 @@
     "echarts": "^4.7.0",
     "element-ui": "^2.4.5",
     "lib-flexible": "^0.3.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "postcss-loader": "^3.0.0",
     "postcss-px2rem": "^0.3.0",
     "vue": "^2.6.11",
